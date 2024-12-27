@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 57px 0 57px;
+    width: 1440px;
+    height: 82px;
+    background-color: rgba(0, 0, 0, 1);
+    padding-right: 57px;
+    padding-left: 57px;
+}
+
+.oll {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.uzb {
+    width: 192px;
+    height: 82px;
+    background-color: orange;
+
+}
+
+.text {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24.2px;
+
+
+}
+
+.text {
+    color: white;
+}
+
+.shurik {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1440px;
+    height: 42px;
+    background-color: rgba(34, 34, 34, 1);
+    color: white;
+    margin-left: 57px;
+    gap: 117px;
+    padding-left: 285px;
+    padding-right: 302px;
+}
+
+.poyiz {
+    background-image: url(https://s3-alpha-sig.figma.com/img/026b/441a/88dfc0194633755f033f7f553dfded55?Expires=1736121600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gos7aGrJcMAT5gEmH~CHgEbhyp7jRy7WBPT4HE2aedAsvSTG8V0eqAokVZ8BqKA8df9qFdCWUVGPdDszcKGLufGeEmPThZNn-HVSG0hp3FJzU85i-JZ7kwItbvQoVA7Ti9-Vin7qK8x8yvFeKoIv~p0EWVtCgoQNm7bCeqoXDNshp4GZbMssKlDfaxADp6J4A2G6lQ973DUyuKXEKXMaP8wo62NikweYhPQO5k71DfCRr5QKDigC90kr5MHAIkzQJODmyLcWwJJ2IOv9uR0eH58eZnxpxRAsA9buIvl-3KK7wL3eMuTM50RRaQTt3Nfqec5-8eOEkhgAExDCKJy3Xg__);
+    width: 1440px;
+    height: 730px;
+    top: 126px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 57px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pik {
+    background-color: rgba(241, 169, 0, 1);
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    color: black;
+    width: 235px;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.test {
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    width: 235px;
+    height: 73px;
+    background-color: black;
+    color: white;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 82px;
+    flex-wrap: wrap;
+}
+
+.damas {
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+    text-align: center;
+    width: 966px;
+    height: 202px;
+    border-radius: 10px 0px 0px 0px;
+    background-color: #F1A90054;
+    color: #FFFFFF;
+
+}
+
+.kosmas {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 57px 0 57px;
+    width: 1440px;
+    height: 101px;
+    background-color: rgba(0, 0, 0, 1);
+    padding-right: 57px;
+    padding-left: 57px;
+}
+
+.titan_tank {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
